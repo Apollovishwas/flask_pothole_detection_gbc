@@ -61,7 +61,7 @@ keras==2.9.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.4
 labelImg==1.8.6
-libclang==14.0.1
+libclang==14.0.6
 lxml==4.9.1
 Markdown==3.4.1
 MarkupSafe==2.1.1
