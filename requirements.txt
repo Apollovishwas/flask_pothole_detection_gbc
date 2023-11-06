@@ -8,7 +8,7 @@ astunparse==1.6.3
 attrs==22.1.0
 backcall==0.2.0
 backports.zoneinfo;python_version<"3.9"
-beautifulsoup4==4.11.1
+beautifulsoup4==4.12.2
 bleach==5.0.1
 blinker==1.5
 cachetools==5.2.0
