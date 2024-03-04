@@ -163,5 +163,5 @@ websockets==10.3
 Werkzeug==2.2.2
 wget==3.2
 widgetsnbextension==3.6.1
-wrapt==1.14.1
+wrapt==1.16.0
 zipp==3.8.1
