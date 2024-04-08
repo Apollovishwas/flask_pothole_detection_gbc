@@ -27,7 +27,7 @@ email-validator==1.2.1
 entrypoints==0.4
 fastapi==0.79.0
 fastjsonschema==2.16.1
-Flask==2.2.2
+Flask==3.0.3
 flatbuffers==1.12
 fonttools==4.35.0
 gast==0.4.0
