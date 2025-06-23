@@ -153,7 +153,7 @@ tzlocal==4.2
 ujson==5.4.0
 urllib3==1.26.11
 uvicorn==0.17.6
-validators==0.20.0
+validators==0.35.0
 watchdog==2.1.9
 watchfiles==0.16.1
 watchgod==0.8.2
